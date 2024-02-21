@@ -3,6 +3,7 @@
 // Examples from https://dzone.com/articles/simple-http-server-in-java were useful references
 // My first vim edit and even more editing
 // another edit
+// this is the edit from today feb 21
 import java.io.IOException;
 import java.io.OutputStream;
 import java.net.InetSocketAddress;
